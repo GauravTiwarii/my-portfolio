@@ -7,3 +7,8 @@ Clever Flavour, Mavor Deavor,  Itz on AWS, reactJS.
 
 Git and Github
 SSH
+Brew
+HTML
+CSS
+Font Awesome
+Google Fonts
